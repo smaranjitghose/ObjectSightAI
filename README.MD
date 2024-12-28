@@ -25,8 +25,8 @@ A powerful and intuitive image analysis interface powered by Google's Gemini Fla
 ## 📥 Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/smaranjitghose/objectsight-ai.git
-cd objectsight-ai
+git clone https://github.com/smaranjitghose/ObjectSightAI.git
+cd ObjectSightAI
 ```
 
 2. Create and activate virtual environment:
