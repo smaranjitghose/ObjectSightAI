@@ -41,11 +41,15 @@ ENV/
 
 # Project specific
 temp_files/
+logs/
+
+# Images (except in assets folder)
 *.jpg
 *.jpeg
 *.png
-*.log
-logs/
+!assets/*.jpg
+!assets/*.jpeg
+!assets/*.png
 
 # API Keys and Secrets
 .env.local
