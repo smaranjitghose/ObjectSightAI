@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  objectsight:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - .:/app
+    environment:
+      - PYTHONUNBUFFERED=1
+    restart: unless-stopped
