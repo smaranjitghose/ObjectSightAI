@@ -18,8 +18,8 @@ A powerful and intuitive image analysis interface powered by Google's Gemini Fla
 ![ObjectSight AI Interface](./assets/demo1.png)
 
 ## 🔧 Prerequisites
-- Python 3.10 or higher
-- A web Browser
+- Python 3.12 or higher
+- A Web Browser
 - Google API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
 
 ## 📥 Installation
