@@ -1,7 +1,7 @@
 # ObjectSight AI 👁️
 A powerful and intuitive image analysis interface powered by Google's Gemini Flash 2, built with Python and Streamlit.
 
-![Python](https://img.shields.io/badge/python-3.10+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/streamlit-latest-red.svg)
 ![Gemini](https://img.shields.io/badge/gemini--vision-compatible-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
